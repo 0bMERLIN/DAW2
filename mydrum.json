@@ -1,0 +1,40 @@
+{
+    "pattern": [
+        [
+            true,
+            false,
+            true,
+            false,
+            true,
+            false,
+            true,
+            false
+        ],
+        [
+            false,
+            true,
+            false,
+            true,
+            false,
+            true,
+            false,
+            true
+        ],
+        [
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            false
+        ],
+        [false,false,false,false,false,false,false,false],
+        [false,false,false,false,false,false,false,false],
+        [false,false,false,false,false,false,false,false],
+        [false,false,false,false,false,false,false,false]
+    ],
+    "subdivision": 4,
+    "bpm": 200
+}
